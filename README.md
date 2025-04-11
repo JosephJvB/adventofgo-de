@@ -17,3 +17,5 @@ reusable `packages`
 I've added an alias `gotest` aka `gt` to print go test output with colours
 
 `gt ./... -v` to see everything!
+
+don't forget my goat https://github.com/JoanaBLate/advent-of-code-js
